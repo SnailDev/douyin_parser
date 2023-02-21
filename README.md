@@ -1,6 +1,8 @@
 ![douyin_parser](https://i.328888.xyz/2023/02/17/pc1dN.jpeg)
 
 目前支持23个平台视频去水印下载，欢迎各位Star，**提交issues时请附带视频链接**。
+网页端试用：https://sp_parser.develophelper.com
+小程序端可扫码使用
 
 ## 支持平台
 
